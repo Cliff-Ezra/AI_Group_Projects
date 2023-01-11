@@ -1,0 +1,29 @@
+->>Install miniconda
+
+->>The hardware and python modules used are found in the documentation
+
+->>A detailed view of all the modules installed during the successful 
+implimenation is also found in the resources folder
+
+->>Run the drowsiness detection.py script
+(ensure directories remain as extracted from the zipfile)
+
+->>The program runs for 20 seconds by default. This can be changed in the 
+drowsiness detection.py script
+
+THATS ALL, HAVE FUN!
+
+===========================================================================
+FROM 
+GROUP 2
+P15/141298/2020 AUSTIN ONGWAE
+P15/139806/2020 CLIFF EZRA
+P15/140390/2020 TED MWAI
+P15/141267/2020 MELISA MICHUKI
+
+UNIVERSITY OF NAIROBI
+FACULTY OF SCIENCE AND TECHNOLOGY
+DEPARTMENT OF COMPUTING AND INFORMATICS
+COUMPUTER SCIENCE
+CSC 317: ARTIFICIAL INTELLIGENCE PROGRAMMING
+2023 YEAR 3 STUDENTS
