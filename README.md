@@ -20,3 +20,22 @@ This project is a simple speech recognition application that uses Azure Cognitiv
     - NOTION_API_KEY
     - AZURE_API_KEY
 6. Run the application
+
+
+# Malignant & Benign Image Classification with a Deep Neural Network
+----------
+![alt](./img2.png)
+
+## Project description
+This project demonstrates image classification using Deep Neural Networks. The tackle of the classification is medical imaging, where the classifier can be used to identify certain features in medical images (e.g. malignant vs. benign tumors)
+
+## You'll need
+- Python 3.9
+- Dependancies that are specified on the .yml file
+- Dataset [Malignant VS Benign](https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign)
+
+## How to use
+1. Clone the repository
+2. Download the image dataset from the Kaggle link
+3. Run the Malignang_Benign_DNN.ipynb file
+4. Open the link from the gradio user interface
