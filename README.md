@@ -39,5 +39,6 @@ This project demonstrates image classification using Deep Neural Networks. The t
 ## How to use
 1. Clone the repository
 2. Download the image dataset from the Kaggle link
-3. Run the Malignang_Benign_DNN.ipynb file
+3. Create a folder called data and upload the data from Kaggle
+3. Run the Malignant_Benign_DNN.ipynb file
 4. Open the link from the gradio user interface
